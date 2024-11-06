@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Meme App</string>
+    <string name="meme_app">Meme App</string>
+    <string name="name_manar_tarek" translatable="false">Name : Manar Tarek</string>
+    <string name="major_android_development" translatable="false">Major : android development</string>
+    <string name="age_21" translatable="false">Age : 21</string>
+    <string name="todo">TODO</string>
+    <string name="meme_photo">meme photo</string>
+</resources>

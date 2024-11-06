@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="meme_app">ميم اب</string>
+    <string name="name_manar_tarek" translatable="false">الاسم : منار طارق</string>
+    <string name="major_android_development" translatable="false">تخصص : اندرويد </string>
+    <string name="age_21" translatable="false">السن : 21</string>
+</resources>
